@@ -1,4 +1,4 @@
-# Fruite-Quality-Detection-Using-AIML-
+# Claasification & Evaluation of Fruite-Quality-Using-AIML-
 Final Year Project
 # Healthy Fruit Lead App 
 ## Table of Content
